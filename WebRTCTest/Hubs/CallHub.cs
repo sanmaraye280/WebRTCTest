@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.SignalR;
 
-namespace WebRTCTest.Controllers.Hubs;
+namespace WebRTCTest.Hubs;
 
 public class CallHub : Hub
 {
